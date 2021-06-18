@@ -39,8 +39,6 @@
     --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 }
 
-
-}
 body{
     margin: 0%;
     padding: 0%;
@@ -181,7 +179,7 @@ ul li{
 
 }
 .drink-botle{
-    background-image: url("/Images/B5.jpg");
+    background-image: url("/Html-Css-Projects/Images/B5.jpg");
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
@@ -319,7 +317,7 @@ ul li{
 
 /**section 5 **/
 .girl-botle{
-    background-image: url("/Images/3\ \(1\).jpg");
+    background-image: url("/Html-Css-Projects/Images/3\ \(1\).jpg");
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
@@ -454,7 +452,7 @@ ul li{
 
 /** Section 7 **/
 .water-botle{
-    background-image: url("/Images/1420x580-2.jpg");
+    background-image: url("/Html-Css-Projects/Images/1420x580-2.jpg");
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
@@ -520,7 +518,7 @@ ul li{
     width: 100%;
     height: 15rem;
     color: white;
-    background-image: url("/Images/m-2-footer-desktop.png");
+    background-image: url("/Html-Css-Projects/Images/m-2-footer-desktop.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
